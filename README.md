@@ -4,7 +4,7 @@ A simple and interactive progress steps UI component built with HTML, CSS, and J
 
 ## Demo
 
-![Progress Steps Screenshot](screenshot.png) <!-- Replace with actual image if available -->
+![Progress Steps Demo]((https://rajdevx.github.io/progress-steps-main/)) <!-- Replace with actual image if available -->
 
 ## Features
 
@@ -18,6 +18,6 @@ A simple and interactive progress steps UI component built with HTML, CSS, and J
 Clone the repo and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/your-username/progress-steps-main.git
+git clone https://github.com/RajDevX/progress-steps-main.git
 cd progress-steps-main
 open index.html
