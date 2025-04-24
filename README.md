@@ -4,7 +4,8 @@ A simple and interactive progress steps UI component built with HTML, CSS, and J
 
 ## Demo
 
-![Progress Steps Demo]((https://rajdevx.github.io/progress-steps-main/)) <!-- Replace with actual image if available -->
+![Progress Steps Demo]
+(https://rajdevx.github.io/progress-steps-main/)<!-- Replace with actual image if available -->
 
 ## Features
 
